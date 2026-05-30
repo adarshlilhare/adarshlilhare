@@ -1,6 +1,7 @@
 # AlignRoute AI: Extreme-Scale ML-Guided VRP Architecture
 *A proprietary, parallel-processing C++ routing engine for massive-scale logistics optimization.*
-Independent AI Researcher (Founder) — AlignRoute AI Technical Video Demo: https://drive.google.com/file/d/1ZXOo3HVJQqykCNeWdqVd9rY8mzQDB4Rc/view?usp=sharing
+
+🎥 **[Click here to watch the Technical Video Demo](https://drive.google.com/file/d/1ZXOo3HVJQqkCNeWdqVd9rY8mzQDB4Rc/view?usp=sharing)**
 
 ## Architecture Overview
 This repository contains the mathematical proofs and leaderboard submissions for my ML-Guided Spatial KD-Tree routing architecture (Indian Patent Pending: 202621067847). 
