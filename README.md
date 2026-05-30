@@ -26,4 +26,4 @@ The architecture has been benchmarked against the three most prestigious routing
 *   **Score:** 5.8M cumulative distance across 303 global Solomon and Gehring/Homberger instances.
 
 ---
-*For inquiries regarding IP acquisition, enterprise integration, or full-time remote engineering roles, please contact the author directly via LinkedIn.*
+*For inquiries regarding IP acquisition, enterprise integration, or full-time remote engineering roles, please contact me directly at: adarsh@alignrouteai.com*
