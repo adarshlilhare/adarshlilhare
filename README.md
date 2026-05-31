@@ -20,7 +20,7 @@ The architecture has been benchmarked against the three most prestigious routing
 *   **Baseline Compression:** Mathematically beat Amazon's historical human driver distances by exactly **12.83%**.
 *   **Human Sequence Realism:** Mapped to the actual driver paths with a near-zero standard deviation (**0.04**), perfectly balancing mathematical paths with veteran human driver intuition.
 
-### 2. GECCO ML4VRP Competition (CVRPTW Track)
+### 2. GECCO ML4VRP Competition 2026 (CVRPTW Track)
 *   **Score:** 298,316.00 cumulative cost on the ALMRRC framework.
 *   **Result:** Defeated standard enterprise baselines by **1.4%**.
 
