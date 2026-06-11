@@ -1,31 +1,19 @@
-# AlignRoute AI: Extreme-Scale ML-Guided VRP Architecture
-*A proprietary, parallel-processing C++ routing engine for massive-scale logistics optimization.*
+Computer Science Undergrad at VIT Bhopal ('27) specializing in Agentic AI, Model Orchestration, and Data Structures in Python. I am passionate about engineering secure, high-impact automated systems.
 
-🎥 **[Click here to watch the Technical Video Demo](https://drive.google.com/file/d/1ZXOo3HVJQqkCNeWdqVd9rY8mzQDB4Rc/view?usp=sharing)**
+Technical Focus & Mindset:
 
-## Architecture Overview
-This repository contains the mathematical proofs and leaderboard submissions for my ML-Guided Spatial KD-Tree routing architecture (Indian Patent Pending: 202621067847). 
+1)Core: Python, Node.js, LangGraph, Agentic AI, Cloud Deployments, RAG , AI ML.
 
-By decoupling spatial grouping from optimization, this engine achieves infinite horizontal scalability and evaluates O(log n) neighborhoods in milliseconds on a single consumer CPU thread. 
+2)Philosophy: Security-first development. I prioritize professional-grade code architectures and rigorously secure deployments.
 
-**Core Engine Capabilities:**
-*   **Absolute Complexity Handling:** Natively solves Strict Time Windows, Capacitated Routing, Dynamic Fleet Sizing, Service Offload Durations, and SLA Penalties simultaneously.
-*   **Methodology:** Utilizes standard TSPLIB formatting and mathematically verified Haversine distances.
-*   **Hardware Optimization:** Deeply optimized for L1/L2 Cache locality and CPU thermal efficiency (executes without throttling).
+3)Key Highlights:Virtual Experience: Google Cloud Generative AI Virtual Intern; IBM DevOps Summer Intern (via Adroit Tech and Innovations).
 
-## Global Validation Benchmarks
-The architecture has been benchmarked against the three most prestigious routing challenges in the world. The mathematical solution files (`.sol`) and methodology reports are provided in this repository.
+4)Innovation: Developer of a patent-pending spatial optimization algorithm (ML-Guided KD-Tree Heuristic and superior ALNS Version with VRPTW , CVRP , PDPTW and MDVRP tracks very similar to BKS in SINTEF , CVRPLIB in datasets such as solmon and homberger , etc and some tied to BKS also run in standard cpu core).
 
-### 1. Amazon Last Mile Routing Research Challenge
-*   **Baseline Compression:** Mathematically beat Amazon's historical human driver distances by exactly **12.83%**.
-*   **Human Sequence Realism:** Mapped to the actual driver paths with a near-zero standard deviation (**0.04**), perfectly balancing mathematical paths with veteran human driver intuition.
+5)Projects: Creator of TrustSight (secure, live-deployed app), TenderGuard AI (AI for Bharat prototype), and KrishiBandhu (Agri-tech).
 
-### 2. GECCO ML4VRP Competition 2026 (CVRPTW Track)
-*   **Score:** 298,316.00 cumulative cost on the ALMRRC framework.
-*   **Result:** Defeated standard enterprise baselines by **1.4%**.
+6)Competitions: Active participant in high-barrier global challenges, including the Gemma 4 Good hackathon and ML4VRP GECCO 2026 Competition in CVRPTW and CVRP Tracks and also in various hackathons.
 
-### 3. DIMACS 12th Implementation Challenge (VRPTW Track)
-*   **Score:** 5.8M cumulative distance across 303 global Solomon and Gehring/Homberger instances.
+I am currently seeking opportunities to apply my AI orchestration skills to building production ready systems , research-driven projects and international technical challenges.
 
----
 *For inquiries regarding IP acquisition, enterprise integration, or full-time remote engineering roles, please contact me directly at: adarsh@alignrouteai.com*
