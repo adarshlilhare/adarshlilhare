@@ -16,4 +16,4 @@ Technical Focus & Mindset:
 
 I am currently seeking opportunities to apply my AI orchestration skills to building production ready systems , research-driven projects and international technical challenges.
 
-*For inquiries regarding IP acquisition, enterprise integration, or full-time remote engineering roles, please contact me directly at: adarsh@alignrouteai.com*
+*For inquiries regarding IP acquisition Of C++ ALNS Guided deterministic ML engine , enterprise integration, or full-time remote engineering roles, please contact me directly at: adarsh@alignrouteai.com*
