@@ -8,7 +8,7 @@ Technical Focus & Mindset:
 
 3)Key Highlights:Virtual Experience: Google Cloud Generative AI Virtual Intern; IBM DevOps Summer Intern (via Adroit Tech and Innovations).
 
-4)Innovation: Developer of a patent-pending spatial optimization algorithm (ML-Guided KD-Tree Heuristic and superior ALNS Version with VRPTW , CVRP , PDPTW and MDVRP tracks very similar to BKS in SINTEF , CVRPLIB in datasets such as solmon and homberger , etc and some tied to BKS also run in standard cpu core).
+4)Innovation: Developer of a patent-pending spatial optimization algorithm (ML-Guided KD-Tree Heuristic and superior ALNS Version with VRPTW , CVRP , PDPTW and MDVRP tracks very similar to BKS in SINTEF in datasets such as solmon and homberger , Li and Lim , cordeau and Uchoa etc and some tied 71 BKS across VRPTW and PDPTW datasets when run it in standard cpu core under 50 minutes).
 
 5)Projects: Creator of TrustSight (secure, live-deployed app), TenderGuard AI (AI for Bharat prototype), and KrishiBandhu (Agri-tech).
 
