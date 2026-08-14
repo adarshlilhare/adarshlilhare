@@ -2,7 +2,7 @@ Computer Science Undergrad at VIT Bhopal ('27) specializing in Agentic AI, Model
 
 Technical Focus & Mindset:
 
-1)Core: Python, Node.js, LangGraph, Agentic AI, Cloud Deployments, RAG , AI ML.
+1)Core: C++, Java, Python, Node.js, LangGraph, Agentic AI, Cloud Deployments, RAG , AI ML.
 
 2)Philosophy: Security-first development. I prioritize professional-grade code architectures and rigorously secure deployments.
 
