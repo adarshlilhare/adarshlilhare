@@ -1,11 +1,11 @@
 # Hi, I'm Adarsh Lilhare 👋
 
-**Optimization Researcher | Research Collaborator at Victoria University of Wellington | Combinationa optimization**
+**Optimization Researcher | Remote Research Collaborator at Victoria University of Wellington | Combinationa optimization**
 
 I am a researcher specializing in Combinatorial Optimization, Evolutionary Computation, and High-Performance Computing. I am passionate about engineering parallelized, mathematically rigorous algorithms to solve complex, NP-Hard operational challenges.
 
 ### 🔭 Current Work
-- **Research Collaborator** with the Evolutionary Computation Research Group at **Victoria University of Wellington** under the guidance of Dr. Fangfang Zhang.
+- **Remote Research Collaborator** with the Evolutionary Computation Research Group at **Victoria University of Wellington** under the guidance of Dr. Fangfang Zhang.
 - Researching advanced Evolutionary Computation techniques (Multi-Task GP, Surrogate Models) for 3D Bin Packing optimization.
 - Preparing a manuscript for *Computers & Operations Research* on a unified, highly scalable Adaptive Large Neighborhood Search (ALNS) framework.
 
