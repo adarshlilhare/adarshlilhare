@@ -1,19 +1,26 @@
-Computer Science Undergrad at VIT Bhopal ('27) specializing in Agentic AI, Model Orchestration, and Data Structures in Python. I am passionate about engineering secure, high-impact automated systems.
+# Hi, I'm Adarsh Lilhare 👋
 
-Technical Focus & Mindset:
+**Optimization Researcher | Research Collaborator at Victoria University of Wellington | Combinationa optimization**
 
-1)Core: C++, Java, Python, Node.js, LangGraph, Agentic AI, Cloud Deployments, RAG , AI ML.
+I am a researcher specializing in Combinatorial Optimization, Evolutionary Computation, and High-Performance Computing. I am passionate about engineering parallelized, mathematically rigorous algorithms to solve complex, NP-Hard operational challenges.
 
-2)Philosophy: Security-first development. I prioritize professional-grade code architectures and rigorously secure deployments.
+### 🔭 Current Work
+- **Research Collaborator** with the Evolutionary Computation Research Group at **Victoria University of Wellington** under the guidance of Dr. Fangfang Zhang.
+- Researching advanced Evolutionary Computation techniques (Multi-Task GP, Surrogate Models) for 3D Bin Packing optimization.
+- Preparing a manuscript for *Computers & Operations Research* on a unified, highly scalable Adaptive Large Neighborhood Search (ALNS) framework.
 
-3)Key Highlights:Virtual Experience: Google Cloud Generative AI Virtual Intern; IBM DevOps Summer Intern (via Adroit Tech and Innovations).
+### ⚙️ Technical Arsenal
+- **Core Languages:** C++, Python, Java
+- **Research Focus:** Combinatorial Optimization, Operations Research, Metaheuristics, Genetic Programming
+- **Performance Engineering:** OpenMP Multi-core Parallelization, $O(1)$ constraint validation algorithms
 
-4)Innovation: Developer of a patent-pending spatial optimization algorithm (ML-Guided KD-Tree Heuristic and superior ALNS Version with VRPTW , CVRP , PDPTW and MDVRP tracks very similar to BKS in SINTEF in datasets such as solmon and homberger , Li and Lim , cordeau and Uchoa etc and some tied 71 BKS across VRPTW and PDPTW datasets when run it in standard cpu core under 50 minutes).
+### 🚀 Key Innovations & Benchmarks
+- **Highly Scalable ALNS Framework (Indian Patent Pending):** Engineered a proprietary, OpenMP-accelerated C++ routing engine that completely bypasses the Python GIL to achieve 100% CPU saturation.
+- **Global Optimality:** Mathematically tied **71 Global Best Known Solutions (BKS)** across the Solomon, Uchoa, Cordeau, and Li & Lim benchmark suites on a standard CPU core under 50 minutes.
+- **Algorithmic Novelties:** Invented a Spatio-Temporal K-Nearest Neighbor (KNN) restriction graph and successfully injected Hybrid Genetic Search (HGS) crossover operators directly into the ALNS thread pool to escape deep local minima.
+- **Industry Competitions:** Competed in the **GECCO ML4VRP 2026 Competition** and the **Amazon Last Mile Routing Challenge** (compressed the baseline by 12.83% while balancing mathematical paths with human driver intuition).
 
-5)Projects: Creator of TrustSight (secure, live-deployed app), TenderGuard AI (AI for Bharat prototype), and KrishiBandhu (Agri-tech).
-
-6)Competitions: Active participant in high-barrier global challenges, including the Gemma 4 Good hackathon and ML4VRP GECCO 2026 Competition in CVRPTW and CVRP Tracks and also in various hackathons.
-
-I am currently seeking opportunities to apply my AI orchestration skills to building production ready systems , research-driven projects and international technical challenges.
-
-
+### 📬 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-671715289/)
+- **Email:** adarsh.23bce11418@vitbhopal.ac.in
+- **Personal email:** adarshlilhare5000@gmail.com
