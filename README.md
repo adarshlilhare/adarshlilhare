@@ -6,7 +6,7 @@ I am a researcher specializing in Combinatorial Optimization, Evolutionary Compu
 
 ### 🔭 Current Work
 - **Remote Research Collaborator** with the Evolutionary Computation Research Group at **Victoria University of Wellington** under the guidance of Dr. Fangfang Zhang.
-- Researching advanced Evolutionary Computation techniques (Multi-Task GP, Surrogate Models) for 3D Bin Packing optimization.
+- Researching advanced Evolutionary Computation techniques (Multi-Task GP, Surrogate Models) and also major focus in 3D Bin Packing optimization research track.
 - Preparing a manuscript for *Computers & Operations Research* on a unified, highly scalable Adaptive Large Neighborhood Search (ALNS) framework.
 
 ### ⚙️ Technical Arsenal
